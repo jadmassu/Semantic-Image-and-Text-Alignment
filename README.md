@@ -29,8 +29,8 @@ The objective of this project is to develop a learning solution that automates t
 
 1. **Clone the Repository**
    ```sh
-   git clone git@github.com:jadmassu/PromptBuilder-for-RAG.git
-   cd your-repository
+   git@github.com:jadmassu/Semantic-Image-and-Text-Alignment.git
+   cd Semantic-Image-and-Text-Alignment
    ```
 2. **Set Up Virtual Environment**
 
