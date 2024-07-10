@@ -1,4 +1,4 @@
-# Contract Advisor RAG: Towards Building A High-Precision Legal Expert LLM APP
+# Semantic Image and Text Alignment
 
 ## Table of Contents
 
