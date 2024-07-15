@@ -2,3 +2,5 @@ numpy
 pandas
 python-dotenv
 Pillow
+extcolors
+ultralytics

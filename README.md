@@ -45,15 +45,10 @@ The objective of this project is to develop a learning solution that automates t
    pip install -r requirements.txt
    ```
 
-<!-- 4. **Install Frontend Modules**
-   ```sh
-   npm i
-   ```
-5. **SetUP environments**
+4. **SetUP environments**
    ```sh
    OPENAI_API_KEY = Your_open_api_key
-   PATH_TO_PDF = Your_file_Path
-   ``` -->
+   ```
 
 <!-- ## Frontend Development
 
@@ -70,20 +65,10 @@ npm run dev
 
 ## Code Structure
 
-<!--
-    ├── backend
-    │   ├── main.py               # API entry point
-    │   ├── controller            # All the controllers
-    │   └── service               # All service that interact with outside
-    ├── data
-    │   ├── data       		      # Raw data files
-    │   └──...
-    ├── frontend
-    │   ├── public               # Static resource
-    │   ├── src                  # Contains all the components pages and styles
-    │   └── ... -->
-
-    ├── requirements.txt          # Python dependencies
+    ├── notebook                  # It's used for exploratory data analysis, prototyping code, and showcasing results
+    ├── data                      # Include raw data, processed data
+    ├── scripts                   # This directory stores all Python scripts, which contains reusable functions
+    ├── requirements.txt          # Python dependencies required to run your project
     ├── README.md                 # Project documentation
     └── ...
 
